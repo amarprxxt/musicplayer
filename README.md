@@ -1,6 +1,6 @@
-# Spotify Clone 🎧
+# Web Music Player App 🎧
 
-A Spotify clone built with React JS and Tailwind CSS, showcasing a dynamic and responsive user interface. This project is a demonstration of modern web development techniques using React JS hooks, React-DOM for navigation, and the Tailwind CSS framework for styling.
+A Web Music Player App built with React JS and Tailwind CSS, showcasing a dynamic and responsive user interface. This project is a demonstration of modern web development techniques using React JS hooks, React-DOM for navigation, and the Tailwind CSS framework for styling.
 
 ## Table of Contents
 
